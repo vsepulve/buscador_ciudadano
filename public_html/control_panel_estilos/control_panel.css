@@ -1,0 +1,51 @@
+
+body {
+	font-family: arial, verdana, sans-serif;
+}
+
+.borde_grupo_01 {
+	border-bottom: medium solid #000000;
+	border-top: medium solid #000000; 
+	border-left: medium solid #000000;
+}
+.borde_grupo_02 {
+	border-bottom: medium solid #000000;
+	border-top: medium solid #000000; 
+}
+.borde_grupo_03 {
+	border-bottom: medium solid #000000;
+	border-top: medium solid #000000; 
+	border-right: medium solid #000000;
+}
+.borde_dominio_01 {
+	border-bottom: thin solid #000000;
+	border-top: thin solid #000000; 
+	border-left: thin solid #000000;
+}
+.borde_dominio_02 {
+	border-bottom: thin solid #000000;
+	border-top: thin solid #000000; 
+}
+.borde_dominio_03 {
+	border-bottom: thin solid #000000;
+	border-top: thin solid #000000; 
+	border-right: thin solid #000000;
+}
+.texto_verde {
+	color: green;
+	font-weight: bold;
+	#font-family: arial, verdana, sans-serif;
+}
+.texto_amarillo {
+	#color: yellow;
+	color: #f8cf0f;
+	font-weight: bold;
+}
+.texto_rojo {
+	color: red;
+	font-weight: bold;
+}
+.texto_gris {
+	color: rgb(150, 150, 150);
+	font-weight: bold;
+}

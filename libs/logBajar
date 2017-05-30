@@ -1,0 +1,160 @@
+File `libwwwapp.so.0.1.0' already there, will not retrieve.
+--10:36:02--  http://images.todocl.cl/copiaSitio/libwwwcache.so.0.1.0
+           => `libwwwcache.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 119,769 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 42% @ 847.46 KB/s
+   50K .......... .......... .......... .......... .......... 85% @ 568.18 KB/s
+  100K .......... ......                                     100% @   1.51 MB/s
+
+10:36:02 (740.27 KB/s) - `libwwwcache.so.0.1.0' saved [119769/119769]
+
+--10:36:02--  http://images.todocl.cl/copiaSitio/libwwwcore.so.0.1.0
+           => `libwwwcore.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 497,103 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 10% @ 568.18 KB/s
+   50K .......... .......... .......... .......... .......... 20% @ 806.45 KB/s
+  100K .......... .......... .......... .......... .......... 30% @ 806.45 KB/s
+  150K .......... .......... .......... .......... .......... 41% @ 568.18 KB/s
+  200K .......... .......... .......... .......... .......... 51% @ 714.29 KB/s
+  250K .......... .......... .......... .......... .......... 61% @ 666.67 KB/s
+  300K .......... .......... .......... .......... .......... 72% @ 657.89 KB/s
+  350K .......... .......... .......... .......... .......... 82% @ 543.48 KB/s
+  400K .......... .......... .......... .......... .......... 92% @ 625.00 KB/s
+  450K .......... .......... .......... .....                100% @ 886.30 KB/s
+
+10:36:03 (662.28 KB/s) - `libwwwcore.so.0.1.0' saved [497103/497103]
+
+--10:36:03--  http://images.todocl.cl/copiaSitio/libwwwdir.so.0.1.0
+           => `libwwwdir.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 102,057 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 50% @ 537.63 KB/s
+   50K .......... .......... .......... .......... ......... 100% @ 564.38 KB/s
+
+10:36:03 (550.64 KB/s) - `libwwwdir.so.0.1.0' saved [102057/102057]
+
+--10:36:03--  http://images.todocl.cl/copiaSitio/libwwwfile.so.0.1.0
+           => `libwwwfile.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 122,898 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 41% @ 500.00 KB/s
+   50K .......... .......... .......... .......... .......... 83% @ 847.46 KB/s
+  100K .......... ..........                                 100% @  92.67 KB/s
+
+10:36:04 (320.05 KB/s) - `libwwwfile.so.0.1.0' saved [122898/122898]
+
+--10:36:04--  http://images.todocl.cl/copiaSitio/libwwwftp.so.0.1.0
+           => `libwwwftp.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 111,554 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 45% @ 617.28 KB/s
+   50K .......... .......... .......... .......... .......... 91% @ 500.00 KB/s
+  100K ........                                              100% @ 993.27 KB/s
+
+10:36:04 (573.37 KB/s) - `libwwwftp.so.0.1.0' saved [111554/111554]
+
+--10:36:04--  http://images.todocl.cl/copiaSitio/libwwwgopher.so.0.1.0
+           => `libwwwgopher.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 88,557 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 57% @ 641.03 KB/s
+   50K .......... .......... .......... ......               100% @ 663.30 KB/s
+
+10:36:04 (650.24 KB/s) - `libwwwgopher.so.0.1.0' saved [88557/88557]
+
+File `libwwwhtml.so.0.1.0' already there, will not retrieve.
+File `libwwwhttp.so.0.1.0' already there, will not retrieve.
+File `libwwwinit.so.0.1.0' already there, will not retrieve.
+File `libwwwmime.so.0.1.0' already there, will not retrieve.
+--10:36:04--  http://images.todocl.cl/copiaSitio/libwwwmux.so.0.1.0
+           => `libwwwmux.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 78,660 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 65% @ 574.71 KB/s
+   50K .......... .......... ......                          100% @   3.27 MB/s
+
+10:36:04 (808.59 KB/s) - `libwwwmux.so.0.1.0' saved [78660/78660]
+
+File `libwwwnews.so.0.1.0' already there, will not retrieve.
+--10:36:04--  http://images.todocl.cl/copiaSitio/libwwwstream.so.0.1.0
+           => `libwwwstream.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 119,119 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 42% @ 704.23 KB/s
+   50K .......... .......... .......... .......... .......... 85% @ 769.23 KB/s
+  100K .......... ......                                     100% @ 494.76 KB/s
+
+10:36:04 (688.33 KB/s) - `libwwwstream.so.0.1.0' saved [119119/119119]
+
+File `libwwwtelnet.so.0.1.0' already there, will not retrieve.
+--10:36:05--  http://images.todocl.cl/copiaSitio/libwwwtrans.so.0.1.0
+           => `libwwwtrans.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 99,257 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 51% @  76.45 KB/s
+   50K .......... .......... .......... .......... ......    100% @ 938.61 KB/s
+
+10:36:05 (137.49 KB/s) - `libwwwtrans.so.0.1.0' saved [99257/99257]
+
+--10:36:05--  http://images.todocl.cl/copiaSitio/libwwwutils.so.0.1.0
+           => `libwwwutils.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 114,748 [text/plain]
+
+    0K .......... .......... .......... .......... .......... 44% @ 347.22 KB/s
+   50K .......... .......... .......... .......... .......... 89% @   1.14 MB/s
+  100K .......... ..                                         100% @ 927.58 KB/s
+
+10:36:06 (557.51 KB/s) - `libwwwutils.so.0.1.0' saved [114748/114748]
+
+File `libwwwxml.so.0.1.0' already there, will not retrieve.
+--10:36:06--  http://images.todocl.cl/copiaSitio/libwwwzip.so.0.1.0
+           => `libwwwzip.so.0.1.0'
+Connecting to images.todocl.cl:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: 8,624 [text/plain]
+
+    0K ........                                              100% @ 495.40 KB/s
+
+10:36:06 (467.88 KB/s) - `libwwwzip.so.0.1.0' saved [8624/8624]
+
+File `libwwwapp.so.0.1.0' already there, will not retrieve.
+File `libwwwcache.so.0.1.0' already there, will not retrieve.
+File `libwwwcore.so.0.1.0' already there, will not retrieve.
+File `libwwwdir.so.0.1.0' already there, will not retrieve.
+File `libwwwfile.so.0.1.0' already there, will not retrieve.
+File `libwwwftp.so.0.1.0' already there, will not retrieve.
+File `libwwwgopher.so.0.1.0' already there, will not retrieve.
+File `libwwwhtml.so.0.1.0' already there, will not retrieve.
+File `libwwwhttp.so.0.1.0' already there, will not retrieve.
+File `libwwwinit.so.0.1.0' already there, will not retrieve.
+File `libwwwmime.so.0.1.0' already there, will not retrieve.
+File `libwwwmux.so.0.1.0' already there, will not retrieve.
+File `libwwwnews.so.0.1.0' already there, will not retrieve.
+File `libwwwstream.so.0.1.0' already there, will not retrieve.
+File `libwwwtelnet.so.0.1.0' already there, will not retrieve.
+File `libwwwtrans.so.0.1.0' already there, will not retrieve.
+File `libwwwutils.so.0.1.0' already there, will not retrieve.
+File `libwwwxml.so.0.1.0' already there, will not retrieve.
+File `libwwwzip.so.0.1.0' already there, will not retrieve.
